@@ -1,8 +1,9 @@
 ## About Me
 
-I have over 10 years of experience in web, mobile, and desktop app development using JavaScript technologies such as React, React Native, Angular, Vue.js, Node.js, Express, ElectronJS and I've delivered maintainable and well-structured code following Coding Standards and Best Practices. Below you can see my skill sets in detail:
- 
-- React/Next.js, Angular, Vue.js/Nuxt.js
+I have over 10 years of experience in web, mobile, and desktop app development using JavaScript technologies such as React, React Native, Angular, Vue.js, Node.js, Express, ElectronJS and I've delivered maintainable and well-structured code following Coding Standards and Best Practices.
+
+Skills:
+- React, Next.js, Angular, Vue.js, Nuxt.js
 - Node.js, Express, NestJS
 - React Native, Ionic Framework
 - ElectronJS
